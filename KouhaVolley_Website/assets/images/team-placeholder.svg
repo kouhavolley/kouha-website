@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171717"/><stop offset="1" stop-color="#303030"/></linearGradient>
+  <pattern id="lines" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M54 0H0V54" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="780" fill="url(#bg)"/><rect width="1200" height="780" fill="url(#lines)"/>
+<path d="M0 620L460 0H720L260 780H0Z" fill="#ffd51b" opacity=".9"/>
+<path d="M300 780L760 0H900L440 780Z" fill="#f36c21" opacity=".9"/>
+<circle cx="850" cy="340" r="200" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="3"/>
+<circle cx="850" cy="340" r="165" fill="none" stroke="#ffd51b" stroke-opacity=".8" stroke-width="7"/>
+<path d="M720 200Q900 320 980 490M980 200Q830 320 720 490M665 335Q850 420 1035 335" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="12" stroke-linecap="round"/>
+<text x="80" y="125" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="8">KOUHA VOLLEYBALL TEAM</text>
+<text x="80" y="690" fill="#fff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">TEAM PHOTO PLACEHOLDER</text>
+</svg>
